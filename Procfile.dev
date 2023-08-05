@@ -1,0 +1,2 @@
+web: rails server -p %PORT% -e development
+js: yarn build --watch
